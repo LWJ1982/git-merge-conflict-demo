@@ -16,7 +16,7 @@ sudo apt install python311            # install the specific version of python
 # pip list
 pip install flask
 ```
-
+## LWJ
 ## MacOS
 ``` sh
 ## Install Python
@@ -51,3 +51,4 @@ cd ~            # change to user directory `/home/{username}`
 cd ..           # change to parent directory (i.e. 1 level up)
 code .          # opens Visual Studio Code against the present directory
 ```
+end
