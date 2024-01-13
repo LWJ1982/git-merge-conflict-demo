@@ -49,4 +49,6 @@ cd ~            # change to user directory `/home/{username}`
 cd ..           # change to parent directory (i.e. 1 level up)
 code .          # opens Visual Studio Code against the present directory
 ```
-end
+# Git 
+git config --global user.name <username>
+git config --global user.email <email>
